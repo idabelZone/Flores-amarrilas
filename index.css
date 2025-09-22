@@ -616,4 +616,5 @@ body {
   left: -180%;
   --size: 10vmin;
   transform: rotate(10deg);
+
   -webkit-animation: growing-grass-ans--6 2s 1.6s linear backwards;
